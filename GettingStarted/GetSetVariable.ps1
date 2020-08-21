@@ -1,0 +1,2 @@
+Set-Variable SQL2K16 HSYOLAP02\SQL2K16
+Get-Variable SQL2K16

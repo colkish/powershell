@@ -1,0 +1,5 @@
+Must setup a proxy to execute
+https://dbatools.io/agent/
+DBA Tool Commands dont terminate:
+https://dba.stackexchange.com/questions/184327/sql-agent-powershell-task-never-finishes
+Run them as a script.

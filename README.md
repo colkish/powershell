@@ -16,3 +16,6 @@ Write-Host "Hi Col, welcome back!"
 
 cd "C:\Users\ckish.HS\Source\Repos\colkish\Powershell"
 
+Run a Poershell script from:
+
+.\ScriptName.ps1
