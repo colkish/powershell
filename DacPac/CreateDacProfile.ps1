@@ -1,0 +1,1 @@
+ New-DbaDacProfile -SqlInstance HSYOLAP02\SQL2K16 -Database TEST_DEV_SDS_Staging -Path C:\temp
