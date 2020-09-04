@@ -1,0 +1,1 @@
+Invoke-DbaQuery -SqlInstance "HSYOLAP02\SQL2K16" -Database Test -Query "SELECT * FROM dbo.Table1"
