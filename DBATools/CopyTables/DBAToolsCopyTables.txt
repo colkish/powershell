@@ -1,1 +1,6 @@
 https://docs.dbatools.io/#Copy-DbaDbTableData
+
+--Copy structure also:
+https://flxsql.com/copying-individual-tables-with-dbatools/
+
+--But I won't need to do this as DTP will have already been deployed and we'lll have the data there.

@@ -3,4 +3,4 @@ $TableNameCheck = $Results[1]
 $TableName = $TableNameCheck[0]
 $Results
 $TableNameCheck
-$TableName 
+$TableNameCheck.gettype()
