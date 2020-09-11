@@ -19,6 +19,7 @@ create table dbo.Table1 (AccountID int not null primary key) ;
 drop table dbo.Table2 ;
 create table dbo.Table2 (AccountID int not null primary key) ;
 
+select @@SERVERNAME
 select * from dbo.Table1 ;
 select * from dbo.Table2 ;
 
